@@ -1,0 +1,142 @@
++------------------------------------------------------+-----------+
+|                       Location                       | Row Count |
++------------------------------------------------------+-----------+
+|   C:/dse/datasets\db_bench\fillrandom_1\iolt_1.csv   |   17001   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\fillrandom_1\iolt_2.csv   |   17001   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\fillrandom_1\qlt_1.csv    |   15000   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\fillrandom_1\qlt_2.csv    |   15000   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\fillrandom_2\iolt_1.csv   |   20003   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\fillrandom_2\iolt_2.csv   |   20003   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\fillrandom_2\qlt.csv     |   20000   |
+|                                                      |           |
+|     C:/dse/datasets\db_bench\fillseq\iolt_1.csv      |   20001   |
+|                                                      |           |
+|     C:/dse/datasets\db_bench\fillseq\iolt_2.csv      |   20001   |
+|                                                      |           |
+|       C:/dse/datasets\db_bench\fillseq\qlt.csv       |   20000   |
+|                                                      |           |
+|      C:/dse/datasets\db_bench\mixgraph\iolt.csv      |    279    |
+|                                                      |           |
+|      C:/dse/datasets\db_bench\mixgraph\qlt.csv       |    1000   |
+|                                                      |           |
+|       C:/dse/datasets\db_bench\read_1\bclt.csv       |    3676   |
+|                                                      |           |
+|       C:/dse/datasets\db_bench\read_1\qlt.csv        |    1838   |
+|                                                      |           |
+|       C:/dse/datasets\db_bench\read_2\bclt.csv       |    4978   |
+|                                                      |           |
+|       C:/dse/datasets\db_bench\read_2\qlt.csv        |    2489   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_1\iolt.csv    |    4908   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_1\qlt.csv     |    2679   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_2\qlt.csv     |    2828   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_3\qlt.csv     |    2045   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_4\bclt.csv    |    3552   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_4\iolt.csv    |    1846   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_4\qlt.csv     |    1776   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_5\bclt.csv    |    4832   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_5\qlt.csv     |    2416   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_6\qlt.csv     |   10000   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_7\qlt.csv     |    2605   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_8\bclt.csv    |    5372   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_8\qlt.csv     |    2686   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_1.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_2.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_3.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_4.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_5.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_6.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_7.csv   |   10456   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_8.csv   |   10456   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_9\iolt.csv    |    8612   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readrandom_9\qlt.csv     |   10000   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readwrite_1\bclt.csv     |    4592   |
+|                                                      |           |
+| C:/dse/datasets\db_bench\readwrite_1\bclt_replay.csv |    4271   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readwrite_1\iolt.csv     |    2218   |
+|                                                      |           |
+| C:/dse/datasets\db_bench\readwrite_1\iolt_replay.csv |    4246   |
+|                                                      |           |
+|     C:/dse/datasets\db_bench\readwrite_1\qlt.csv     |    2939   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readwrite_2\bclt_1.csv    |    6502   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\readwrite_2\bclt_2.csv    |    6502   |
+|                                                      |           |
+|    C:/dse/datasets\db_bench\readwrite_2\iolt.csv     |    1039   |
+|                                                      |           |
+|     C:/dse/datasets\db_bench\readwrite_2\qlt.csv     |    1000   |
+|                                                      |           |
+|     C:/dse/datasets\db_bench\readwrite_3\qlt.csv     |   10000   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\updaterandom_1\bclt.csv   |    3716   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\updaterandom_1\qlt.csv    |    2240   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\updaterandom_2\bclt.csv   |    3217   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\updaterandom_2\qlt.csv    |    2080   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\updaterandom_3\bclt.csv   |    4774   |
+|                                                      |           |
+|   C:/dse/datasets\db_bench\updaterandom_3\qlt.csv    |    2624   |
+|                                                      |           |
+|            C:/dse/datasets\redis\bclt.csv            |    225    |
+|                                                      |           |
+|            C:/dse/datasets\redis\iolt.csv            |    1990   |
+|                                                      |           |
+|            C:/dse/datasets\redis\qlt.csv             |    1982   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_1.csv       |   11051   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_2.csv       |   11051   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_3.csv       |   11051   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_4.csv       |   11051   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_5.csv       |   11051   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_6.csv       |   11051   |
+|                                                      |           |
+|      C:/dse/datasets\ycsb\workloada\bclt_7.csv       |   11051   |
+|                                                      |           |
+|       C:/dse/datasets\ycsb\workloada\qlt_1.csv       |   16050   |
+|                                                      |           |
+|       C:/dse/datasets\ycsb\workloada\qlt_2.csv       |   16050   |
+|                                                      |           |
+|       C:/dse/datasets\ycsb\workloadc\bclt.csv        |    3125   |
+|                                                      |           |
+|        C:/dse/datasets\ycsb\workloadc\qlt.csv        |   18980   |
+|                                                      |           |
++------------------------------------------------------+-----------+

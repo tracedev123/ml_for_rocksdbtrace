@@ -1,0 +1,142 @@
++------------------------------------------------------+---------------+
+|                       Location                       | Average Score |
++------------------------------------------------------+---------------+
+|   C:/dse/datasets\db_bench\fillrandom_1\iolt_1.csv   |     80.89%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\fillrandom_1\iolt_2.csv   |     41.21%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\fillrandom_1\qlt_1.csv    |     60.0%     |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\fillrandom_1\qlt_2.csv    |     60.0%     |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\fillrandom_2\iolt_1.csv   |     78.26%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\fillrandom_2\iolt_2.csv   |     86.65%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\fillrandom_2\qlt.csv     |     60.0%     |
+|                                                      |               |
+|     C:/dse/datasets\db_bench\fillseq\iolt_1.csv      |     83.82%    |
+|                                                      |               |
+|     C:/dse/datasets\db_bench\fillseq\iolt_2.csv      |     79.97%    |
+|                                                      |               |
+|       C:/dse/datasets\db_bench\fillseq\qlt.csv       |     60.0%     |
+|                                                      |               |
+|      C:/dse/datasets\db_bench\mixgraph\iolt.csv      |     68.65%    |
+|                                                      |               |
+|      C:/dse/datasets\db_bench\mixgraph\qlt.csv       |     53.2%     |
+|                                                      |               |
+|       C:/dse/datasets\db_bench\read_1\bclt.csv       |     62.07%    |
+|                                                      |               |
+|       C:/dse/datasets\db_bench\read_1\qlt.csv        |     60.0%     |
+|                                                      |               |
+|       C:/dse/datasets\db_bench\read_2\bclt.csv       |     62.13%    |
+|                                                      |               |
+|       C:/dse/datasets\db_bench\read_2\qlt.csv        |     60.0%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_1\iolt.csv    |     49.95%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_1\qlt.csv     |     60.0%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_2\qlt.csv     |     43.82%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_3\qlt.csv     |     43.86%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_4\bclt.csv    |     56.96%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_4\iolt.csv    |     52.94%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_4\qlt.csv     |     43.66%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_5\bclt.csv    |     62.1%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_5\qlt.csv     |     60.0%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_6\qlt.csv     |     60.0%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_7\qlt.csv     |     60.0%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_8\bclt.csv    |     62.63%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_8\qlt.csv     |     60.0%     |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_1.csv   |     72.7%     |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_2.csv   |     72.23%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_3.csv   |     71.93%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_4.csv   |     70.87%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_5.csv   |     71.23%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_6.csv   |     72.76%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_7.csv   |     71.85%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readrandom_9\bclt_8.csv   |     71.52%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_9\iolt.csv    |     51.06%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readrandom_9\qlt.csv     |     60.0%     |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readwrite_1\bclt.csv     |     82.71%    |
+|                                                      |               |
+| C:/dse/datasets\db_bench\readwrite_1\bclt_replay.csv |     72.38%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readwrite_1\iolt.csv     |     61.26%    |
+|                                                      |               |
+| C:/dse/datasets\db_bench\readwrite_1\iolt_replay.csv |     50.29%    |
+|                                                      |               |
+|     C:/dse/datasets\db_bench\readwrite_1\qlt.csv     |     60.0%     |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readwrite_2\bclt_1.csv    |     55.51%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\readwrite_2\bclt_2.csv    |     62.41%    |
+|                                                      |               |
+|    C:/dse/datasets\db_bench\readwrite_2\iolt.csv     |     51.82%    |
+|                                                      |               |
+|     C:/dse/datasets\db_bench\readwrite_2\qlt.csv     |     60.0%     |
+|                                                      |               |
+|     C:/dse/datasets\db_bench\readwrite_3\qlt.csv     |     60.0%     |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\updaterandom_1\bclt.csv   |     61.89%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\updaterandom_1\qlt.csv    |     41.43%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\updaterandom_2\bclt.csv   |     62.95%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\updaterandom_2\qlt.csv    |     39.71%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\updaterandom_3\bclt.csv   |     62.24%    |
+|                                                      |               |
+|   C:/dse/datasets\db_bench\updaterandom_3\qlt.csv    |     39.89%    |
+|                                                      |               |
+|            C:/dse/datasets\redis\bclt.csv            |     84.67%    |
+|                                                      |               |
+|            C:/dse/datasets\redis\iolt.csv            |     48.82%    |
+|                                                      |               |
+|            C:/dse/datasets\redis\qlt.csv             |     80.0%     |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_1.csv       |     59.49%    |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_2.csv       |     53.28%    |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_3.csv       |     53.48%    |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_4.csv       |     52.34%    |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_5.csv       |     52.72%    |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_6.csv       |     53.54%    |
+|                                                      |               |
+|      C:/dse/datasets\ycsb\workloada\bclt_7.csv       |     53.0%     |
+|                                                      |               |
+|       C:/dse/datasets\ycsb\workloada\qlt_1.csv       |     80.0%     |
+|                                                      |               |
+|       C:/dse/datasets\ycsb\workloada\qlt_2.csv       |     67.33%    |
+|                                                      |               |
+|       C:/dse/datasets\ycsb\workloadc\bclt.csv        |     89.87%    |
+|                                                      |               |
+|        C:/dse/datasets\ycsb\workloadc\qlt.csv        |     74.13%    |
+|                                                      |               |
++------------------------------------------------------+---------------+
